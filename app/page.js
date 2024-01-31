@@ -1,0 +1,8 @@
+
+export default function Home() {
+  return (
+    <main>
+      <div className="mt-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod molestiae fugit sit atque accusantium, recusandae, aut aliquid accusamus ea quasi repellat doloremque, adipisci maxime velit. Ea, quas, ipsum, sit qui similique explicabo dolores vero cumque iste repudiandae est eos vitae ab numquam. Impedit eos laborum consequuntur officia suscipit sit, cum blanditiis ipsa dolorum ratione inventore nemo quidem incidunt doloribus commodi, iure enim tempora. Et, vero amet veritatis quae recusandae expedita? Doloribus perferendis excepturi expedita voluptas maxime dolores quia aperiam error nobis placeat, doloremque sequi molestiae quasi, id odit exercitationem animi facere nemo alias quo neque! Aperiam repellat repellendus qui unde eum eos velit numquam at dolorem illum fuga aliquam vel voluptates, ea provident, odit optio facere ratione, deserunt obcaecati fugit cum blanditiis? Vero quaerat eveniet non quisquam perspiciatis saepe, magni sed aut. Suscipit eius commodi eum fugit aliquam quasi eveniet, sed ad unde optio minima esse repellendus, officia doloribus asperiores eos ullam quo repudiandae voluptatibus iste. Possimus culpa exercitationem itaque suscipit quis officiis consectetur nobis sint iure vitae, tempora, expedita eveniet ipsum blanditiis. Esse aliquam, vel ipsum debitis aut provident inventore iste ea iure, amet perferendis nihil harum voluptas quae ut rem, necessitatibus veritatis maxime praesentium! Unde nemo voluptatum eius alias aliquid expedita rerum quo debitis tempore eveniet iste totam sapiente, possimus enim eligendi veritatis. Eum nihil velit cum hic voluptas?</div>
+    </main>
+  );
+}
